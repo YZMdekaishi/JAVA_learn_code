@@ -1,4 +1,4 @@
-public class encapsulation {
+﻿public class encapsulation {
     public static void main(String[] args) {
         Account account = new Account("dddd", 50000, 965489);
         System.out.println("name:" + account.name + "\tsalary:" + account.getSalary() + "\tpassword:" + account.getPassword());
